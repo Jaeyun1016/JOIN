@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JOIN</string>
+    <string name="join">회원가입</string>
+    <string name="name">이름</string>
+    <string name="nick">닉네임</string>
+    <string name="id">아이디</string>
+    <string name="email">이메일</string>
+    <string name="password">전화번호</string>
+    <string name="call">인증</string>
+    <string name="major">1,2전공 입력</string>
+    <string name="check">가입하기</string>
+    <string name="allow">채팅창 알림을 허용하시겠습니까?</string>
+</resources>
